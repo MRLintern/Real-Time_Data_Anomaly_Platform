@@ -13,16 +13,13 @@ find unusual cases lingering in company platforms.
 <br>
 The company has no customers yet so they need to create a sample data platform to show to
 potential customers.
-<br />
-
-<br>
 The data platform consists of three main components:
 <br />
 
 * A service that serves the anomaly detection model.
 * The monitoring platform `Prometheus`.
 * `Grafana` (a tool that excels at visualising monitoring dashboards).
-* 
+  
 <br>
 The anomaly detector will be an Isolated Forest model, trained with a curated and real dataset provided
 by the author's organisation; taken from online. This dataset is used in daily work to detect anomalous users.
