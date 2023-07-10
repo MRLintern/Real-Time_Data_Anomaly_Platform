@@ -1,5 +1,0 @@
-import fire
-
-print("fine")
-
-
