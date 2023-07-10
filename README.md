@@ -3,7 +3,7 @@
 ### Introduction
 
 <br>
-Note: This is a personal project in which I have created a made-up-company.
+__Note__: This is a personal project in which I have created a made-up-company.
 <br />
 
 A start-up called AnomalousDex Inc., specialises in building personalised end-to-end data products
