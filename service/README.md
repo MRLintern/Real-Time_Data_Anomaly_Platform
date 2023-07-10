@@ -1,5 +1,5 @@
 # Testing model API
-This curl commands can be used to test the service and user all the endpoints available.
+The curl command can be used to test the service and user all the endpoints available.
 
 ## Predictions without scores
 ```
