@@ -55,4 +55,8 @@ To deploy them, Docker Compose will be used. This is a tool for defining and run
 
 ### Instructions
 
+-user will need instructions using this project.
+
 ### Analysis
+
+-need to provide details on graphs and results.
